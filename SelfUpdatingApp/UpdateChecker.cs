@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Deployment.Application;
+using System.Diagnostics;
 using System.Reflection;
 using System.Xml;
 using SelfUpdatingApp.Properties;
@@ -66,7 +67,7 @@ namespace SelfUpdatingApp
             }
             catch (Exception e)
             {
-                Console.WriteLine(Resources
+                Debug.WriteLine(Resources
                     .UpdateChecker_GetInstallerProperties_Error_getting_properties_file__error_message__ + e.Message);
 
                 return null;
