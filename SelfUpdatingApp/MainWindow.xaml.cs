@@ -75,7 +75,7 @@ namespace SelfUpdatingApp
         {
             string selectedPath = SelectPath();
 
-            if (selectedPath != null)
+            if (!string.IsNullOrEmpty(selectedPath))
             {
                 ArchivePathField.Text = selectedPath;
             }
@@ -85,7 +85,7 @@ namespace SelfUpdatingApp
         {
             string selectedPath = SelectPath();
 
-            if (selectedPath != null)
+            if (!string.IsNullOrEmpty(selectedPath))
             {
                 InstallerPathField.Text = selectedPath;
             }
