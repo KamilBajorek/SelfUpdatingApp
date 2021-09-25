@@ -17,7 +17,15 @@ namespace SelfUpdatingApp
 
         private void InitializeData()
         {
+            InstallerPathLabel.Content = Properties.Resources.MainWindowInstallerPathLabel;
+            InstallerPathLabel.ToolTip = Properties.Resources.MainWindowInstallerPathTooltip;
+
+            ArchivePathLabel.Content = Properties.Resources.MainWindowArchivePathLabel;
+            ArchivePathLabel.ToolTip = Properties.Resources.MainWindowArchivePathTooltip;
+
             MenuAbout.Header = Properties.Resources.MenuAboutName;
+            WindowLabel.Content = Properties.Resources.MainWindowLabel;
+
             LoadSettings();
         }
 

@@ -6,23 +6,26 @@
   <component name="ChangeListManager">
     <list default="true" id="397505b3-cd1c-412d-a25b-7afa4e35410e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SelfUpdatingApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SelfUpdatingApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SelfUpdatingApp/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SelfUpdatingApp/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SelfUpdatingApp/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SelfUpdatingApp/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SelfUpdatingApp/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SelfUpdatingApp/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/Properties/Resources.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/Properties/Resources.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/SelfUpdatingApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/SelfUpdatingApp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.application" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.application" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.exe.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.exe.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/SelfUpdatingApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/Application Files/SelfUpdatingApp_1_0_0_26/SelfUpdatingApp.exe.config.deploy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/Application Files/SelfUpdatingApp_1_0_0_26/SelfUpdatingApp.exe.deploy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/Application Files/SelfUpdatingApp_1_0_0_26/SelfUpdatingApp.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/SelfUpdatingApp.application" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/SelfUpdatingApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/SelfUpdatingApp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/bin/Debug/app.publish/setup.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.Properties.Resources.resources" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.Properties.Resources.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.application" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.application" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.csproj.GenerateResource.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.exe.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/SelfUpdatingApp_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SelfUpdatingApp/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/Kamil/source/repos/SelfUpdatingApp/SelfUpdatingApp/UpdateChecker.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,7 +100,8 @@
       <workItem from="1632326990602" duration="96000" />
       <workItem from="1632429299702" duration="1839000" />
       <workItem from="1632433577131" duration="143000" />
-      <workItem from="1632563520678" duration="918000" />
+      <workItem from="1632563520678" duration="974000" />
+      <workItem from="1632565447940" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="cleanup">
       <created>1632564335063</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632564335063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="path selection fix">
+      <created>1632564456417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632564456417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,17 +128,18 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
+    <MESSAGE value="path selection fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="path selection fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1061" y="627" key="AddNewResourceElement" timestamp="1632318461263">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="627" key="AddNewResourceElement/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632318461263" />
-    <state x="904" y="276" key="CommitChangelistDialog2" timestamp="1632564427997">
+    <state x="904" y="276" key="CommitChangelistDialog2" timestamp="1632564456032">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="904" y="276" key="CommitChangelistDialog2/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564427997" />
+    <state x="904" y="276" key="CommitChangelistDialog2/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564456032" />
     <state x="1141" y="599" key="Github.ShareDialog" timestamp="1632564047826">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -139,22 +148,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="992" y="406" key="Github.UntrackedFilesDialog/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564169554" />
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1632564430757">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1632564495694">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564430757" />
-    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1632564430757">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564495694" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1632564495694">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564430757" />
-    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1632564430757">
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564495694" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1632564495694">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564430757" />
-    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1632564430757">
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564495694" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1632564495694">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564430757" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564495694" />
     <state width="2517" height="519" key="GridCell.Tab.1.bottom" timestamp="1632319011244">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -223,9 +232,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="782" y="346" key="SettingsEditor/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632563705885" />
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1632564338596">
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1632564459898">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564338596" />
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.1065.1920.1040@0.0.2560.1400" timestamp="1632564459898" />
   </component>
 </project>

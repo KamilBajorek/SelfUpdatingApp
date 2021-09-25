@@ -141,4 +141,19 @@
   <data name="MenuAboutName" xml:space="preserve">
     <value>About</value>
   </data>
+  <data name="MainWindowArchivePathLabel" xml:space="preserve">
+    <value>Archive path</value>
+  </data>
+  <data name="MainWindowArchivePathTooltip" xml:space="preserve">
+    <value>Location of archived version of this application. Archivization is performed when updating to new version.</value>
+  </data>
+  <data name="MainWindowInstallerPathLabel" xml:space="preserve">
+    <value>Installer path</value>
+  </data>
+  <data name="MainWindowInstallerPathTooltip" xml:space="preserve">
+    <value>Location of application installer</value>
+  </data>
+  <data name="MainWindowLabel" xml:space="preserve">
+    <value>Settings</value>
+  </data>
 </root>

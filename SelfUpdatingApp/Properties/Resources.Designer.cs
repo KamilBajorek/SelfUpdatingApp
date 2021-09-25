@@ -61,6 +61,51 @@ namespace SelfUpdatingApp.Properties {
         }
         
         /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Archive path.
+        /// </summary>
+        internal static string MainWindowArchivePathLabel {
+            get {
+                return ResourceManager.GetString("MainWindowArchivePathLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Location of archived version of this application. Archivization is performed when updating to new version..
+        /// </summary>
+        internal static string MainWindowArchivePathTooltip {
+            get {
+                return ResourceManager.GetString("MainWindowArchivePathTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Installer path.
+        /// </summary>
+        internal static string MainWindowInstallerPathLabel {
+            get {
+                return ResourceManager.GetString("MainWindowInstallerPathLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Location of application installer.
+        /// </summary>
+        internal static string MainWindowInstallerPathTooltip {
+            get {
+                return ResourceManager.GetString("MainWindowInstallerPathTooltip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Settings.
+        /// </summary>
+        internal static string MainWindowLabel {
+            get {
+                return ResourceManager.GetString("MainWindowLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         /// Wyszukuje zlokalizowany ciąg podobny do ciągu About.
         /// </summary>
         internal static string MenuAboutName {
