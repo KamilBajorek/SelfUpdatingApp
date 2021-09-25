@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SelfUpdatingApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="setupFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">setup.exe</Value>
+    </Setting>
+    <Setting Name="applicationManifestExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.application</Value>
+    </Setting>
+    <Setting Name="manifestVersionFieldName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">version</Value>
+    </Setting>
+    <Setting Name="installerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Kamil\WORKSPACE\releases\</Value>
+    </Setting>
+    <Setting Name="archivePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="zipExtension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.zip</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
+
